@@ -15,7 +15,7 @@ This project is a starting point for startup application: burn treatment device 
 
 ![Registration](ss_registration.png)
 ![Login](ss_login.png)
-![Settings(ss_settings.png)
+![Settings](ss_settings.png)
 ![Preorder](ss_preorder.png)
 ![Demo](ss_demo.png)
 
